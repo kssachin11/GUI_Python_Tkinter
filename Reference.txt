@@ -1,0 +1,2 @@
+https://github.com/weewStack/Python-projects/blob/master/004-PySerial%20-%20MCU%20-%20Multi-Datareadings/002-Connection%20Manager%20Gui%20Serial/Serial_Com_ctrl.py
+https://www.youtube.com/watch?v=6bNO-Usuybg&list=PLtVUYRe-Z-meHdTlzqCHGPjZvnL2VZVn8&index=4
